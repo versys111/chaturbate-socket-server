@@ -36,8 +36,8 @@
     "mocha": "^3.4.2"
   },
   "dependencies": {
-    "@paulallen87/chaturbate-browser": "^1.1.10",
-    "@paulallen87/chaturbate-controller": "^1.0.11",
+    "@versys111/chaturbate-browser": "^1.1.10",
+    "@versys111/chaturbate-controller": "^1.0.11",
     "debug": "^2.6.8",
     "socket.io": "^2.0.3"
   }
