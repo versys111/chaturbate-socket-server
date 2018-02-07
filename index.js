@@ -2,8 +2,8 @@
 
 const debug = require('debug')('chaturbate:socket-server');
 const fs = require('fs');
-const ChaturbateBrowser = require('@paulallen87/chaturbate-browser');
-const ChaturbateController = require('@paulallen87/chaturbate-controller');
+const ChaturbateBrowser = require('@versys111/chaturbate-browser');
+const ChaturbateController = require('@versys111/chaturbate-controller');
 const socketIO = require('socket.io');
 const {Console} = require('console');
 
