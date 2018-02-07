@@ -1,5 +1,5 @@
 {
-  "name": "@paulallen87/chaturbate-socket-server",
+  "name": "@versys111/chaturbate-socket-server",
   "version": "1.0.17",
   "description": "A socket server for publishing events from a Chaturbate profile.",
   "main": "index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paulallen87/chaturbate-socket-server.git"
+    "url": "git+https://github.com/versys111/chaturbate-socket-server.git"
   },
   "keywords": [
     "chaturbate"
@@ -22,9 +22,9 @@
   "author": "“Paul Allen <“paul.allen.87.555@gmail.com”>",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/paulallen87/chaturbate-socket-server/issues"
+    "url": "https://github.com/versys111/chaturbate-socket-server/issues"
   },
-  "homepage": "https://github.com/paulallen87/chaturbate-socket-server#readme",
+  "homepage": "https://github.com/versys111/chaturbate-socket-server#readme",
   "devDependencies": {
     "chai": "^4.0.2",
     "coveralls": "^2.13.1",
